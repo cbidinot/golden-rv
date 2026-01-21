@@ -1,6 +1,6 @@
 # Golden-RV
 #### Verilog/SystemVerilog RISC-V Design Project
-This project is an implementation of the RISC-V ISA using Verilog and SystemVerilog for verification. The core architecture is inspired by what is presented in Patterson and Hennessy's Computer Organization and Design. This implementation has a five-stage piepline that is very similar to what is used throughout most of the textbook. The current description does not target any physical technology, though after the design is further refined, there are plans to make it work with an FPGA.
+This project is an implementation of the RISC-V unprivileged ISA using Verilog and SystemVerilog for verification. The core architecture is inspired by what is presented in Patterson and Hennessy's Computer Organization and Design. This implementation has a five-stage pipeline that is very similar to what is used throughout most of the textbook. The current description does not target any physical technology, though after the design is further refined, there are plans to make it work with an FPGA.
 
 **File Structure:**
  - **mem:** Verilog Memory files to test RISC-V programs
